@@ -1,2 +1,3 @@
 # philo_C
-projet sudoku
+Projet sudoku
+Création d'un sudoku avec des grilles 
